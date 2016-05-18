@@ -5,8 +5,9 @@
    酷狗的效果图是：
    ![image](https://github.com/daimaXZ/ViewPagerSlideDemo/blob/master/kugo.png) 
    友盟统计的效果图是：
-
+   ![image](https://github.com/daimaXZ/ViewPagerSlideDemo/blob/master/youmeng.png) 
    我实现的效果大概是（gif）：
 
-
+  ![image](https://github.com/daimaXZ/ViewPagerSlideDemo/blob/master/viewpagerAndSlide.gif) 
+  
    未添加自动轮播。代码注释比较详细，此处不做讲解。
